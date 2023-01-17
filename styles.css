@@ -1,0 +1,6 @@
+p{
+    width: max-content;
+}
+p:hover{
+    color: blue;
+}
